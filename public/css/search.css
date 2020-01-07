@@ -1,0 +1,106 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.container
+{
+    border: 2px solid navy;
+    margin-top: 100px;
+}
+#p1
+{
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    color: white;
+    font-size: 4.5rem;
+   
+}
+.tophead img
+{
+    height: 5rem;
+    width: 5rem;
+}
+#p2
+{
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    color: white;
+    font-size: 3rem;
+}
+#search
+{
+    color: tomato;
+}
+#p3
+{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-decoration: underline;
+    font-size: 3.0rem;
+    color: green
+    
+}
+#def 
+{
+    color: white;
+    font-size: 2.5rem;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+}
+#related
+{
+    color: lightcoral;
+    font-size: 3.5rem;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+}
+
+#deff
+{
+    color: teal;
+    font-size: 3rem;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+}
+.figure img
+{
+    height: 25rem;
+    width: 25rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.relp
+{
+    color:white;
+    font-size: 2.5rem;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    display: inline;
+}
+.leftdoc img
+{
+    height: 20rem;
+    width: 20rem;
+    margin-top: 2rem;
+}
+.captions p
+{
+    color: darkgreen;
+    font-size: 2rem;
+    font-size: 3.0rem;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+}
+.captions
+{
+    margin-top: 2rem;
+}
+.labelling
+{
+    color: lightcoral;
+    font-size: 3.0rem;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+}

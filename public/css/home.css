@@ -1,0 +1,61 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.toptex
+{
+    font-size: 4.5rem;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    color: blue;
+}
+#hi
+{
+    color: red;
+}
+#fd1
+{
+    color: blue;
+}
+#fd2
+{
+    color: green;
+}
+#help
+{
+    color: green;
+}
+#helpp
+{
+    color: red;
+}
+.doc1
+{
+    height: 32rem;
+    width: 32rem;
+    margin-top: 6rem;
+}
+.toptex
+{
+    margin-top: 3.0rem;
+}
+form
+{
+    margin-top: 3rem;
+}
+.doc2
+{
+    height: 16rem;
+    width: 16rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
