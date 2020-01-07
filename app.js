@@ -8,7 +8,7 @@ const publicPath=path.join(__dirname,"public");
 console.log(publicPath);
 app.use(express.static(publicPath));
 app.set("view engine","ejs")
-
+const port=process.env.PORT || 3000;
 app.get("/",function(req,res)
 {
     res.render("home");
@@ -106,7 +106,7 @@ app.post("/search",function(req,res1)
         res1.render("results",{related: related,results: results[0],query: req.body.query});
     })
 })
-app.listen(3000,function()
+app.listen(port,function()
 {
     console.log("Server has started!!");
 })
